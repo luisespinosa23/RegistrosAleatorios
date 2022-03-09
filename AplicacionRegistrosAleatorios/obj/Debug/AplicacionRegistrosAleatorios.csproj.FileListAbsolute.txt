@@ -1,0 +1,14 @@
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\bin\Debug\AplicacionRegistrosAleatorios.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.GUIVentanaPrincipal.resources
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.GUIAgregarEquipo.resources
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\bin\Debug\AplicacionRegistrosAleatorios.exe
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\bin\Debug\AplicacionRegistrosAleatorios.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.exe
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.GUIListarEquipos.resources
+C:\Users\BALLM\Desktop\Discretas\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\bin\Debug\AplicacionRegistrosAleatorios.exe.config
+C:\Users\BALLM\Desktop\Discretas\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.exe
+C:\Users\BALLM\Desktop\Discretas\AplicacionRegistrosAleatorios\AplicacionRegistrosAleatorios\obj\Debug\AplicacionRegistrosAleatorios.pdb
